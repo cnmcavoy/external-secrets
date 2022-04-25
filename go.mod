@@ -41,7 +41,7 @@ require (
 	github.com/IBM/go-sdk-core/v5 v5.5.0
 	github.com/IBM/secrets-manager-go-sdk v1.0.23
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1192
-	github.com/aws/aws-sdk-go v1.38.6
+	github.com/aws/aws-sdk-go v1.43.45
 	github.com/crossplane/crossplane-runtime v0.13.0
 	github.com/fatih/color v1.10.0 // indirect
 	github.com/frankban/quicktest v1.10.0 // indirect
